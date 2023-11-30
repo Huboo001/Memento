@@ -1,0 +1,2 @@
+# Memento
+Wzorzec projektowy Memento
